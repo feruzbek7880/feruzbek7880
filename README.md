@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @feruzbek7880
 - 👀 I’m interested in Fullstack web developer
-- 🌱 I’m currently learning Front-end dev
+- 🌱 I’m currently learning Back-end dev
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me telegram: @dilyorbekovich
 
